@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "nombre": "Trixi",
+  "descripcion": "Galliano",
+  "precio": "$3.73",
+  "stock": 1
+}, {
+  "id": 2,
+  "nombre": "Norry",
+  "descripcion": "Rambutan",
+  "precio": "$8.42",
+  "stock": 2
+}, {
+  "id": 3,
+  "nombre": "Guglielmo",
+  "descripcion": "Bagelers",
+  "precio": "$0.15",
+  "stock": 3
+}, {
+  "id": 4,
+  "nombre": "Darryl",
+  "descripcion": "Juice - Prune",
+  "precio": "$0.74",
+  "stock": 4
+}, {
+  "id": 5,
+  "nombre": "Dev",
+  "descripcion": "Oil - Canola",
+  "precio": "$7.90",
+  "stock": 5
+}, {
+  "id": 6,
+  "nombre": "Tab",
+  "descripcion": "Sobe - Cranberry Grapefruit",
+  "precio": "$7.89",
+  "stock": 6
+}, {
+  "id": 7,
+  "nombre": "Shanie",
+  "descripcion": "Soap - Hand Soap",
+  "precio": "$6.24",
+  "stock": 7
+}, {
+  "id": 8,
+  "nombre": "Conni",
+  "descripcion": "Oil - Food, Lacquer Spray",
+  "precio": "$6.80",
+  "stock": 8
+}, {
+  "id": 9,
+  "nombre": "Eldredge",
+  "descripcion": "Lamb - Loin Chops",
+  "precio": "$4.25",
+  "stock": 9
+}, {
+  "id": 10,
+  "nombre": "Cleon",
+  "descripcion": "Juice - Tomato, 10 Oz",
+  "precio": "$5.94",
+  "stock": 10
+}]
